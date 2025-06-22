@@ -1,0 +1,28 @@
+{
+  "vulnerabilities": [
+    {
+      "package": "requests",
+      "version": "2.19.1",
+      "cve": "CVE-2018-18074",
+      "severity": "high"
+    },
+    {
+      "package": "lodash",
+      "version": "4.17.11",
+      "cve": "CVE-2019-10744",
+      "severity": "medium"
+    },
+    {
+      "package": "flask",
+      "version": "0.12",
+      "cve": "CVE-2018-1000656",
+      "severity": "high"
+    },
+    {
+      "package": "django",
+      "version": "2.1.5",
+      "cve": "CVE-2019-6975",
+      "severity": "critical"
+    }
+  ]
+} 

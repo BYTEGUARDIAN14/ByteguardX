@@ -1,0 +1,39 @@
+{
+  "patterns": [
+    {
+      "name": "eval(input())",
+      "pattern": "eval\\(input\\(.*\\)\\)",
+      "severity": "critical"
+    },
+    {
+      "name": "exec usage",
+      "pattern": "exec\\(.*\\)",
+      "severity": "high"
+    },
+    {
+      "name": "pickle.loads",
+      "pattern": "pickle\\.loads\\(.*\\)",
+      "severity": "high"
+    },
+    {
+      "name": "os.system",
+      "pattern": "os\\.system\\(.*\\)",
+      "severity": "high"
+    },
+    {
+      "name": "subprocess.call",
+      "pattern": "subprocess\\.call\\(.*\\)",
+      "severity": "high"
+    },
+    {
+      "name": "Missing try-except",
+      "pattern": "missing_try_except",
+      "severity": "medium"
+    },
+    {
+      "name": "Unvalidated input",
+      "pattern": "unvalidated_input",
+      "severity": "high"
+    }
+  ]
+} 
