@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ByteGuardX/static/css/main.439c4843.css",
+    "main.js": "/ByteGuardX/static/js/main.a1c70ef9.js",
+    "index.html": "/ByteGuardX/index.html",
+    "main.439c4843.css.map": "/ByteGuardX/static/css/main.439c4843.css.map",
+    "main.a1c70ef9.js.map": "/ByteGuardX/static/js/main.a1c70ef9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.439c4843.css",
+    "static/js/main.a1c70ef9.js"
+  ]
+}
