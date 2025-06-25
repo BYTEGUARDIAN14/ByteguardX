@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ByteguardX/static/css/main.d48be2fa.css",
-    "main.js": "/ByteguardX/static/js/main.b5a0a070.js",
+    "main.css": "/ByteguardX/static/css/main.fdb323da.css",
+    "main.js": "/ByteguardX/static/js/main.33d20b53.js",
     "index.html": "/ByteguardX/index.html",
-    "main.d48be2fa.css.map": "/ByteguardX/static/css/main.d48be2fa.css.map",
-    "main.b5a0a070.js.map": "/ByteguardX/static/js/main.b5a0a070.js.map"
+    "main.fdb323da.css.map": "/ByteguardX/static/css/main.fdb323da.css.map",
+    "main.33d20b53.js.map": "/ByteguardX/static/js/main.33d20b53.js.map"
   },
   "entrypoints": [
-    "static/css/main.d48be2fa.css",
-    "static/js/main.b5a0a070.js"
+    "static/css/main.fdb323da.css",
+    "static/js/main.33d20b53.js"
   ]
 }
